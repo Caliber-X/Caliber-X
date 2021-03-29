@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shuvam Deyashi - aka [Caliber X][github]
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Shuvam Deyashi][linkedin] - aka [Caliber X][github]
 
 ### Connect with me:
 
