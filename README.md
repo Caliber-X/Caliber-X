@@ -26,8 +26,7 @@
 
 <img align="left" alt="ArduPy" width="70px" src="https://camo.githubusercontent.com/38c3cdb42eaf78b394c0bea0061c0b9fef6ae521e74cdbd42612a43e21fa6cd4/68747470733a2f2f66696c65732e736565656473747564696f2e636f6d2f6172647570792f6172647570795f6c6f676f2e706e67" />
 
-
-
+<br>
 <br>
 
 ### GitHub Stats:
