@@ -18,6 +18,14 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
 
+<img align="left" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" />
+
+<img align="left" alt="GitHub" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />
+
+<img align="left" alt="GitHub" width="60px" src="https://camo.githubusercontent.com/22b56064e406669ac39bbe0eae4d045e1c9f2c64115374a4bbb8f64b42774fee/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f61646166727569742d636972637569742d707974686f6e2f43697263756974507974686f6e5f5265706f5f6865616465725f6c6f676f2e706e67" />
+
+
+
 <br>
 
 ### GitHub Stats:
