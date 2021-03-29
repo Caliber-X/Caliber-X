@@ -23,4 +23,4 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Caliber-X&show_icons=true&hide_border=true" />
 
 [github]: https://github.com/Caliber-X
-[linkedin]: https://linkedin.com/in/benjamincabe
+[linkedin]: https://www.linkedin.com/in/shuvamdeyashi/
