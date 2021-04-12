@@ -31,7 +31,7 @@
 
 ### GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shuvam-WebO&layout=compact;show_icons=true" alt="GitHub Most Frequent Languages used by me">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caliber-X&layout=compact;show_icons=true" alt="GitHub Most Frequent Languages used by me">
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Caliber-X&show_icons=true&hide_border=true" />
 
