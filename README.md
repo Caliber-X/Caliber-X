@@ -33,7 +33,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caliber-X&layout=compact;show_icons=true" alt="GitHub Most Frequent Languages used by me">
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Caliber-X&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Caliber-X&show_icons=true&hide_border=true" /> -->
+
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caliber-X&amp;show_icons=true" />
 
 [github]: https://github.com/Caliber-X
 [linkedin]: https://www.linkedin.com/in/shuvamdeyashi/
