@@ -36,7 +36,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Caliber-X&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Most Frequent Languages used by me](https://github-readme-stats.vercel.app/api/top-langs?username=Caliber-X&layout=compact&show_icons=true&include_all_commits=true&border_color=2e4058&theme=onedark)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caliber-X&show_icons=true&include_all_commits=true&border_color=2e4058&theme=onedark)
 
 <a href="https://www.buymeacoffee.com/Caliber_X" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
