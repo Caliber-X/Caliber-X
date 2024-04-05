@@ -2,7 +2,10 @@
 
 ### Connect with me:
 
-<a href=https://github.com/Caliber-X target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href=https://www.linkedin.com/in/shuvamdeyashi/ target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href=https://github.com/Caliber-X target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href=https://www.linkedin.com/in/shuvamdeyashi/ target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 ### Languages and Tools:
 
@@ -33,9 +36,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caliber-X&layout=compact;show_icons=true&include_all_commits=true&border_color=2e4058&theme=onedark" alt="GitHub Most Frequent Languages used by me">
 
-<!-- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Caliber-X&show_icons=true&hide_border=true" /> -->
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Caliber-X&show_icons=true&hide_border=true" />
 
 <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Caliber-X&amp;show_icons=true&include_all_commits=true&border_color=2e4058&hide=prs,issues,contribs&theme=onedark" />
 
-[github]: https://github.com/Caliber-X
+<a href="https://www.buymeacoffee.com/Caliber_X" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+[github]: https://github.com/Caliber-X/
 [linkedin]: https://www.linkedin.com/in/shuvamdeyashi/
+[stackoverflow]: https://stackoverflow.com/users/18334720/caliber-x/
+[leetcode]: https://leetcode.com/Caliber_X/
