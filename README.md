@@ -16,7 +16,7 @@
 
 [![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm)](https://skillicons.dev)
 
-[![vc](https://skillicons.dev/icons?i=git,github,azure,githubactions)](https://skillicons.dev)
+[![vc](https://skillicons.dev/icons?i=git,github,azure,bitbucket,githubactions)](https://skillicons.dev)
 
 [![Languages](https://skillicons.dev/icons?i=python,c,cpp,go)](https://skillicons.dev)
 
