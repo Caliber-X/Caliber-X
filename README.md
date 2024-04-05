@@ -12,28 +12,24 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[![misc](https://skillicons.dev/icons?i=windows,ubuntu,bash)](https://skillicons.dev)
 
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+[![Editors](https://skillicons.dev/icons?i=vscode,visualstudio,pycharm)](https://skillicons.dev)
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+[![vc](https://skillicons.dev/icons?i=git,github,azure,githubactions)](https://skillicons.dev)
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,go)](https://skillicons.dev)
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
+[![hardware](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" />
+[![AI](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
 
-<img align="left" alt="Proteus" width="30px" src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" />
+[![misc](https://skillicons.dev/icons?i=anaconda,opencv,qt)](https://skillicons.dev)
 
-<img align="left" alt="Arduino" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" />
+[![Databases](https://skillicons.dev/icons?i=redis,mongodb,mysql)](https://skillicons.dev)
 
-<img align="left" alt="Circuit Python" width="60px" src="https://camo.githubusercontent.com/22b56064e406669ac39bbe0eae4d045e1c9f2c64115374a4bbb8f64b42774fee/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f61646166727569742d636972637569742d707974686f6e2f43697263756974507974686f6e5f5265706f5f6865616465725f6c6f676f2e706e67" />
+[![Deployments](https://skillicons.dev/icons?i=docker,kubernetes,)](https://skillicons.dev)
 
-<img align="left" alt="ArduPy" width="70px" src="https://camo.githubusercontent.com/38c3cdb42eaf78b394c0bea0061c0b9fef6ae521e74cdbd42612a43e21fa6cd4/68747470733a2f2f66696c65732e736565656473747564696f2e636f6d2f6172647570792f6172647570795f6c6f676f2e706e67" />
-
-<br>
-<br>
 
 ### GitHub Stats:
 
