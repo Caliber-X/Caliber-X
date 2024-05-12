@@ -2,6 +2,7 @@
 [linkedin]: https://www.linkedin.com/in/shuvamdeyashi/
 [stackoverflow]: https://stackoverflow.com/users/18334720/caliber-x/
 [leetcode]: https://leetcode.com/Caliber_X/
+[wakatime]: https://wakatime.com/@Caliber_X
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm [Shuvam Deyashi][linkedin] - aka [Caliber X][github]
 
@@ -31,11 +32,14 @@
 [![Deployments](https://skillicons.dev/icons?i=docker,kubernetes,)](https://skillicons.dev)
 
 
-### GitHub Stats:
+### Stats:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Caliber-X&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Most Frequent Languages used by me](https://github-readme-stats.vercel.app/api/top-langs?username=Caliber-X&layout=compact&show_icons=true&include_all_commits=true&border_color=2e4058&theme=onedark)
+
+[![wakatime](https://wakatime.com/badge/user/c663a798-c033-42db-96bd-0ed4ba7a9473.svg)][wakatime]
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caliber-X&show_icons=true&include_all_commits=true&border_color=2e4058&theme=onedark)
 
 <a href="https://www.buymeacoffee.com/Caliber_X" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
