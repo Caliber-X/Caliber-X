@@ -27,7 +27,7 @@
 
 [![misc](https://skillicons.dev/icons?i=anaconda,opencv,qt)](https://skillicons.dev)
 
-[![Databases](https://skillicons.dev/icons?i=redis,mongodb,mysql)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres)](https://skillicons.dev)
 
 [![Deployments](https://skillicons.dev/icons?i=docker,kubernetes,)](https://skillicons.dev)
 
