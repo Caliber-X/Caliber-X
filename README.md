@@ -19,7 +19,7 @@
 
 [![vc](https://skillicons.dev/icons?i=git,github,gitlab,azure,bitbucket,githubactions)](https://skillicons.dev)
 
-[![Languages](https://skillicons.dev/icons?i=python,c,cpp,go)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp)](https://skillicons.dev)
 
 [![hardware](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
 
@@ -27,9 +27,9 @@
 
 [![misc](https://skillicons.dev/icons?i=anaconda,opencv,qt)](https://skillicons.dev)
 
-[![Databases](https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=redis,rabbitmq,mongodb,mysql,postgres)](https://skillicons.dev)
 
-[![Deployments](https://skillicons.dev/icons?i=docker,kubernetes,)](https://skillicons.dev)
+[![Deployments](https://skillicons.dev/icons?i=npm,nginx,docker,kubernetes,)](https://skillicons.dev)
 
 
 ### Stats:
