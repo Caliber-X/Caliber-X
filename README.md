@@ -34,7 +34,7 @@
 
 ### Stats:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Caliber-X&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Caliber-X&theme=onedark&title=-Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Most Frequent Languages used by me](https://github-readme-stats.vercel.app/api/top-langs?username=Caliber-X&layout=compact&show_icons=true&include_all_commits=true&border_color=2e4058&theme=onedark)
 
