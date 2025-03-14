@@ -40,7 +40,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/c663a798-c033-42db-96bd-0ed4ba7a9473.svg)][wakatime]
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caliber-X&show_icons=true&include_all_commits=true&border_color=2e4058&theme=onedark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caliber-X&show_icons=true&include_all_commits=true&border_color=2e4058&theme=onedark)](https://github-readme-stats.vercel.app/api?username=Caliber-X&show_icons=true&include_all_commits=true&border_color=2e4058&theme=onedark)
 
 <a href="https://www.buymeacoffee.com/Caliber_X" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
